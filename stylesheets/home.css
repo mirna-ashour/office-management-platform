@@ -1,0 +1,14 @@
+
+.more {float: right; background-color:#4c5657; border: none;}
+
+.more:hover {background-color: #656b79;}
+
+.ministry-name {color: #4c5657; font-size: 105%;}
+
+.card-body.card-title p {font-size: 300%;}
+
+.boxes {
+    -webkit-box-shadow: 2px 2px 32px -9px rgba(135,131,135,1);
+    -moz-box-shadow: 2px 2px 32px -9px rgba(135,131,135,1);
+    box-shadow: 2px 2px 32px -9px rgba(135,131,135,1);
+}

@@ -1,0 +1,16 @@
+
+.menu {background-color: #4c5657; } 
+
+.navbar-nav.mr-auto li a {color: white; }
+
+.navbar-nav.mr-auto li a:hover {color: #c3b8a5; }
+
+.dropdown-menu a:hover {background-color: #656b79;}
+
+.navbar-brand {color: #c3b8a5;}
+
+.navbar-brand:hover {color: #907f61;}
+
+.dropdown-menu {
+  background-color:#4c5657;
+}
